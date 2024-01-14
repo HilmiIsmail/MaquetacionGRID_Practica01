@@ -12,7 +12,7 @@ El proyecto consta de un archivo HTML (`index.html`) y un archivo de estilos CSS
 
 ### Despliegue
 
-Puedes ver la página desplegada [aquí]().
+Puedes ver la página: [aquí](https://github.com/HilmiIsmail/MaquetacionGRID_Practica01).
 
 ### Construido con
 
@@ -21,7 +21,7 @@ Puedes ver la página desplegada [aquí]().
 
 ### Versionado
 
-Este proyecto no tiene versiones oficiales.
+Sin versiones.
 
 ### Autores
 
@@ -33,4 +33,4 @@ Este proyecto está bajo la Licencia MIT.
 
 ### Recursos Adicionales
 
-Visita la [página de GitHub](https://github.com/HilmiIsmail/MaquetacionGRID_Practica01) para más detalles.
+Visita mi [GitHub](https://github.com/HilmiIsmail) para más proyectos.
